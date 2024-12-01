@@ -2,19 +2,15 @@
 <h3 align="center">A student at the University Of Amsterdam</h3>
 <h4 align="center">With a personal home page on: <a href="https://thies.dev/home">thies.dev</a></h3>
 
-- 🤓 I’m in my second year [of the BSc Informatica](https://www.uva.nl/programmas/bachelors/informatica/informatica.html)
+- 🤓 I’m in my ~~third~~ fourth year [of the BSc Informatica](https://www.uva.nl/programmas/bachelors/informatica/informatica.html)
 
-- 🔭 Currently working on [my homepage](https://github.com/thiesjoo/thies-home-page)
-- 🔒 With a custom [authentication system (Still private)](https://github.com/thiesjoo/auth)
-    - 👷 And a cloudflare worker to project local websites: [worker](https://github.com/Thiesjoo/cloudflare_ensure_auth)
-- 🖼️ Including a live [wallpaper system](https://github.com/thiesjoo/heic-wallpaper)
+- 🔭 Currently working on everything and nothing at once!
+- Mostly working on projects of Study Association **via** (http://gitlab.com/studieverenigingvia/viaduct)
+- 🖼️ A personal project is a live [wallpaper system](https://github.com/thiesjoo/heic-wallpaper)
 
 
 
 <h3 align="left">More sideprojects:</h3>
-
-- 🌡️ A temperature logging service which will store temperature/sensor data from all my devices on my [raspberry pi](https://github.com/Thiesjoo/raspi-temp-server)
-
 - 💰 Because I'm "skere student" I made another useful website that tracks when we get our money from the governement: [DUODAG](https://duodag.nl)
 
 
