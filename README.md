@@ -2,7 +2,7 @@
 <h3 align="center">A student at the University Of Amsterdam</h3>
 <h4 align="center">With a personal home page on: <a href="https://thies.dev/home">thies.dev</a></h3>
 
-- 🤓 I’m in my ~~third~~ fourth year [of the BSc Informatica](https://www.uva.nl/programmas/bachelors/informatica/informatica.html)
+- 🤓 I’m in my ~~third~~ fourth year of the [BSc Computer Science](https://www.uva.nl/programmas/bachelors/informatica/informatica.html)
 
 - 🔭 Currently working on everything and nothing at once!
 - Mostly working on projects of Study Association **via** (http://gitlab.com/studieverenigingvia/viaduct)
