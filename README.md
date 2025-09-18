@@ -2,13 +2,10 @@
 <h3 align="center">A student at the University Of Amsterdam</h3>
 <h4 align="center">With a personal home page on: <a href="https://thies.dev/home">thies.dev</a></h3>
 
-- 🤓 I’m in my ~~third~~ fourth year of the [BSc Computer Science](https://www.uva.nl/programmas/bachelors/informatica/informatica.html)
+- 🤓 I’m studying the [MSc Network And Security Engineering](https://www.uva.nl/shared-content/programmas/en/masters/security-and-network-engineering/security-and-network-engineering.html?origin=znSrDUT%2BQ5uz6dso72fBmw)
 
-- 🔭 Currently working on everything and nothing at once!
 - Mostly working on projects of Study Association **via** (http://gitlab.com/studieverenigingvia/viaduct)
 - 🖼️ A personal project is a live [wallpaper system](https://github.com/thiesjoo/heic-wallpaper)
-
-
 
 <h3 align="left">More sideprojects:</h3>
 - 💰 Because I'm "skere student" I made another useful website that tracks when we get our money from the governement: [DUODAG](https://duodag.nl)
